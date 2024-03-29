@@ -1,4 +1,13 @@
+# The private electrifier.org GitHub Repository
+
+🍪 You're not supposed to be here, u know?
+
 ## Welcome to the team 🙌
+
+🙋‍♀️ Nice to meet U again
+
+
+
 
 <!--
 
