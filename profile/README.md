@@ -2,9 +2,7 @@
 
 🍪 You're not supposed to be here, u know?
 
-## Welcome to the team 🙌
-
-🙋‍♀️ Nice to meet U again
+## Nice to meet U again 🙌
 
 <!--
 **Here are some ideas to get you started:**
