@@ -1,4 +1,4 @@
-# The private electrifier.org GitHub Repository
+# electrifier.org GitHub Member Area
 
 🍪 You're not supposed to be here, u know?
 
