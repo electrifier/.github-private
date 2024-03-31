@@ -6,13 +6,8 @@
 
 🙋‍♀️ Nice to meet U again
 
-
-
-
 <!--
-
 **Here are some ideas to get you started:**
-
 🙋‍♀️ A short introduction - what is your organization all about?
 👀 Contribution guidelines - how do team members dive in?
 👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
