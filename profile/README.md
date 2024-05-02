@@ -1,8 +1,7 @@
 # electrifier.org GitHub Member Area
 
-🍪 You're not supposed to be here, u know?
-
-## Nice to meet U again 🙌
+You're not supposed to be here, u know? 🍪
+## Nice to meet u again 🙌
 
 <!--
 **Here are some ideas to get you started:**
