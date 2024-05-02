@@ -1,5 +1,4 @@
-# electrifier.org GitHub Member Area
-
+# GitHub Member Area of electrifier
 You're not supposed to be here, u know? 🍪
 ## Nice to meet u again 🙌
 
